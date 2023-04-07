@@ -1,0 +1,26 @@
+h1{
+    background-color: gray;
+    /* padding-left: 550px; */
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.p1{
+    border: 3px solid rgb(104, 93, 93);
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.p2{
+    border: 3px solid rgb(58, 49, 49);
+    width: 80%;
+    align-items: center;
+    margin: auto;
+    padding-left: 10px;
+}
